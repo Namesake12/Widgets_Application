@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetsApplication</string>
+    <string name="name">Enter your Name</string>
+    <string name="phone">Enter your Phone</string>
+    <string name="email">Enter your Email Address</string>
+    <string name="dob">Enter Your DOB</string>
+    <string name="signUp">Sign Up</string>
+</resources>
